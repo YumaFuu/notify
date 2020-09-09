@@ -8,8 +8,8 @@
 
 ### 方法
 マイクロバースト法<br>
-https://www.youtube.com/watch?v=w4OqCX9m8m4
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5094084/
+https://www.youtube.com/watch?v=w4OqCX9m8m4<br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5094084/<br>
 
 ### depends on
 [termianl-notifier](https://github.com/julienXX/terminal-notifier)
